@@ -10,3 +10,6 @@ Loading the MNIST data set directly using TensorFlow API.
 mnist = tf.keras.datasets.mnist
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
 ```
+
+First we check the distribution of classes in the training set.
+
