@@ -13,7 +13,7 @@ mnist = tf.keras.datasets.mnist
 
 First, we check the distribution of classes in the training set.
 
-![data_distribution](https://github.com/Mayurwaghela1997/MNIST-classification-using-CNN/blob/main/Images/Class-distribution.JPG)
+![data_distribution](https://github.com/Mayurwaghela1997/MNIST-classification-using-CNN/blob/main/Images/Class_distribution.JPG)
 
 We can see there is no class imbalance problem in the training set.
 
