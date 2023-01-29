@@ -1,6 +1,6 @@
 # MNIST-classification-using-CNN
 
-The repository contains the data & code for classifying the Images of handwritten digits using the Convolutional Neural Network(CNN) and Dropouts approach.
+The repository contains the code for classifying the Images of handwritten digits using the Convolutional Neural Network(CNN) and Dropouts approach.
 
 ## Dataset
 
